@@ -1,0 +1,6 @@
+.pytest_cashe
+.vscode
+__pycache__
+.env
+cookies.txt
+result_petfriends.png
