@@ -10,7 +10,6 @@ environ.Env.read_env()
 
 EXPECTATION = 10  # sec
 
-
 def get_pets_quantity(text_content):
     return int(text_content.split('\n')[1].split(' ')[1])
 

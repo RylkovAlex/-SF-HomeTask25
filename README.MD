@@ -21,4 +21,4 @@
 
 Пример для Chrome:
 
-- pytest -v --driver [Browser] --driver-path ./chromedriver.exe
+- pytest -v --driver Chrome --driver-path ./chromedriver.exe
